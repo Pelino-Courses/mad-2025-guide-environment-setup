@@ -1,6 +1,4 @@
-# mad-2025-guide-environment-setup
-
-### **Comprehensive Guide to Setting Up a Flutter Development Environment**  
+# **Comprehensive Guide to Setting Up a Flutter Development Environment**  
 *For Educational Purposes*  
 
 ---
