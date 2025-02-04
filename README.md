@@ -162,6 +162,6 @@ Your Flutter environment is now ready! Start building apps with:
 void main() => runApp(const MyApp());  
 ```  
 
-**Educator Tip**: Pair this guide with hands-on labs using [DartPad](https://dartpad.dev/) for quick experiments.  
+Note that there are some other online platforms for quick experience like [DartPad](https://dartpad.dev/) and [Project IDX](https://idx.google.com/new/flutter).  
 
 *Happy Coding!* 🚀
